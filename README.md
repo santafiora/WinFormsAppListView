@@ -7,7 +7,7 @@ Serialize and Deserialize BinaryWriter
 Warning Binary Writer is Obsolete
 
 # WinFormsAppListView
-Hier ein komplette kleine Applikation in Winforms mit einer ListView als CRUD
+Hier eine komplette kleine Applikation in Winforms mit einer ListView als CRUD Operation!
 
 Zusätzlich habe ich noch die Serialiserung und Deserialisierung mittels Streamreader, JSON, XML und BinaryWriter hinzugefügt!
 
